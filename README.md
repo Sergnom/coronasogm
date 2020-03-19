@@ -1,0 +1,2 @@
+# coronasogm
+Just another repository
